@@ -9,5 +9,12 @@ This repository is intended to serve as a backup of a core image-minimal of STM3
 4) meta-custom (your customized meta-layer with apps and features you want)
 
 After creating these meta-layers you will have a 'Build' directory. This contains the path where the image will be deployed.
+Inside the Build you will find:
+
+* cache
+* conf
+* tmp
+
+
 
 
