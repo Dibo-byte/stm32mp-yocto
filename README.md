@@ -1,8 +1,6 @@
 # stm32mp-yocto
-Creation of Linux Image on STM32MP157F-DK2
+Creation of Linux Image on STM32MP157F-DK2_ By Gabriel Dibo
 
-
-First Steps:
 This repository is intended to serve as a backup of a core image-minimal of STM32MP157F-DK2. To build this image it is necessary to have 4 meta-layers where information regarding how to build the image is stored. For this you will need:
 
 1) meta-openembedded
